@@ -11,4 +11,13 @@ Repositório para armazernar o que aprendi em curso.
        Desvio Medio Absoluto, Variancia, Desvio Padrão 
   Exercício - Análise Descritiva
 
-  2. Probanilidade e Amostragem -
+  2. Probanilidade e Amostragem
+       * Distribuições de Probabilidade
+           Binomial, Poisson, Normal
+       * Amostragem
+           População e Amostra, Amostragem Aleatória Simples, Amostragem Estratificada, Amostragem por Conglomerados
+       * Estimação
+           Teorema do limite central, Niveis de confiança e significância, Erro inferencial, Intervalos de confiança
+       * Cálculo do tamanho da amostra
+           Variáveis quantitativas e população infinita, Variáveis quantitativas e população finita 
+         

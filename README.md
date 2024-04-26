@@ -9,5 +9,6 @@ Repositório para armazernar o que aprendi em curso.
        Quartis, Decis, percentis, Box-plot
    * Medidas de Dispersão
        Desvio Medio Absoluto, Variancia, Desvio Padrão 
-     
+  Exercício - Análise Descritiva
+
   2. Probanilidade e Amostragem -

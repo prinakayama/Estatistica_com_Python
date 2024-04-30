@@ -22,9 +22,19 @@ Repositório para armazernar o que aprendi em curso.
            Variáveis quantitativas e população infinita, Variáveis quantitativas e população finita
 
   3. Testes de Hipóteses
+       * Teste de normalidade e as etapas básicas de um teste
+       * Teste Paramétricos
+           Teste Bicaudal, Teste Unicaudal e Teste para duas amostras
+       * Testes Não Paramétricos
+           Distribuição Qui-Quadrado, Teste de Wilconxon e Teste de Mann-Whitney
+          
   4. Testes Estatisticos com Python
+     
   5. Correlação e Regressão
+     
   6. Regressão Linear: Testando relacoes e prevendo futuros
+     
   7. Regressão Linear: Tecnicas avançadas de modelagem
+     
   8. Regressão Linear: Testes, Mapas de cores e analises dos dados 
          

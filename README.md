@@ -39,8 +39,11 @@
            Normalidade dos residuos, Simetria, Curtose
          
   6. Regressão Linear: Testando relacoes e prevendo futuros
+       *
+       *
+       * 
      
-  7. Regressão Linear: Tecnicas avançadas de modelagem
+  8. Regressão Linear: Tecnicas avançadas de modelagem
      
-  8. Regressão Linear: Testes, Mapas de cores e analises dos dados 
+  9. Regressão Linear: Testes, Mapas de cores e analises dos dados 
          

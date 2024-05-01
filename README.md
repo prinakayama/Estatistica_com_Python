@@ -1,5 +1,5 @@
 # Estatística com Python
-Repositório para armazernar o que aprendi em curso.
+
 1. Frequências e Medidas
    * Distribuição de frequência
        Variaveis Qualitativas, Variaveis Quantitativas, Histograma
@@ -29,9 +29,15 @@ Repositório para armazernar o que aprendi em curso.
            Distribuição Qui-Quadrado, Teste de Wilconxon e Teste de Mann-Whitney
           
   4. Testes Estatisticos com Python
-     
+       
   5. Correlação e Regressão
-     
+       * Correlação
+           Covariancia, Interpretação  da Covariancia, Coeficiente de correlacao de Pearson
+       * Regressão Linear
+           Regressão Linear Simples, Mínimos Quadrados Ordinários, Previsões, Residuos
+           Suposições sobre o termo de erro u, Coeficiente de determinação R2, Testes aplicados a modelos de regressão
+           Normalidade dos residuos, Simetria, Curtose
+         
   6. Regressão Linear: Testando relacoes e prevendo futuros
      
   7. Regressão Linear: Tecnicas avançadas de modelagem

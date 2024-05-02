@@ -11,7 +11,7 @@
        Desvio Medio Absoluto, Variancia, Desvio Padrão 
   Exercício - Análise Descritiva
 
-  2. Probanilidade e Amostragem
+  2. Probabilidade e Amostragem
        * Distribuições de Probabilidade
            Binomial, Poisson, Normal
        * Amostragem
@@ -39,10 +39,7 @@
            Normalidade dos residuos, Simetria, Curtose
          
   6. Regressão Linear: Testando relacoes e prevendo futuros
-       *
-       *
-       * 
-     
+       
   8. Regressão Linear: Tecnicas avançadas de modelagem
      
   9. Regressão Linear: Testes, Mapas de cores e analises dos dados 

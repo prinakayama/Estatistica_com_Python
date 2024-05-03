@@ -20,7 +20,7 @@
        Quartis, Decis, percentis, Box-plot
    * Medidas de Dispersão
        Desvio Medio Absoluto, Variancia, Desvio Padrão 
-  Exercício - Análise Descritiva
+      - Exercício - Análise Descritiva
 
   2. Probabilidade e Amostragem
        * Distribuições de Probabilidade
@@ -31,6 +31,7 @@
            Teorema do limite central, Niveis de confiança e significância, Erro inferencial, Intervalos de confiança
        * Cálculo do tamanho da amostra
            Variáveis quantitativas e população infinita, Variáveis quantitativas e população finita
+         - Exercício - Estimativas
 
   3. Testes de Hipóteses
        * Teste de normalidade e as etapas básicas de um teste
@@ -38,6 +39,7 @@
            Teste Bicaudal, Teste Unicaudal e Teste para duas amostras
        * Testes Não Paramétricos
            Distribuição Qui-Quadrado, Teste de Wilconxon e Teste de Mann-Whitney
+         - Testes de Hipóteses 
           
   4. Testes Estatisticos com Python
        
@@ -48,10 +50,13 @@
            Regressão Linear Simples, Mínimos Quadrados Ordinários, Previsões, Residuos
            Suposições sobre o termo de erro u, Coeficiente de determinação R2, Testes aplicados a modelos de regressão
            Normalidade dos residuos, Simetria, Curtose
+         - Exercicio - Correlação e Regressão 
          
   6. Regressão Linear: Testando relacoes e prevendo futuros
-       
+        * Exercícios, Projeto e Bônus
+          
   8. Regressão Linear: Tecnicas avançadas de modelagem
+         * Exercicio
      
-  9. Regressão Linear: Testes, Mapas de cores e analises dos dados 
-         
+  10. Regressão Linear: Testes, Mapas de cores e analises dos dados 
+         * Exercício 

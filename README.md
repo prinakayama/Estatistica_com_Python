@@ -1,4 +1,15 @@
-# Estatística com Python
+<h1 align="center">
+    
+<p align="center">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="12%" height="15%"/>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/5/53/Estat%C3%ADstica_%C3%ADcone.svg" width="15%" height="15%"/>
+
+<h1 align="center"><b>Estatística com Python</b></h1>
+
+
+<p align="center"> 
+
+
 
 1. Frequências e Medidas
    * Distribuição de frequência
